@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Nondaba
-- 👀 I’m interested in learning how git hub works 
-- 🌱 I’m currently learning web development on udemy
+- 👀 I’m interested in web development and application development
 - 💞️ I’m looking to collaborate on projects in near future
 - 📫 you can reach me on twitter @uNondaba1
 
